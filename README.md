@@ -9,4 +9,5 @@ his is the course project for the Getting and Cleaning Data Coursera course. The
 1. Merges the two datasets
 1. Converts the activity and subject columns into factors
 1. Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
-1. The end result is shown in the file tidy.txt.
+
+The end result is shown in the file tidy.txt.
